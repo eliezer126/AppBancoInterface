@@ -1,0 +1,13 @@
+#card-body1{
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.container{
+    background-color: black;
+}
